@@ -10,30 +10,30 @@
     <meta name="msapplication-TileColor" content="#ffc40d">
     <meta name="theme-color" content="#1a2035">
 
-    <title>Sejarah | Kecamatan</title>
+    <title>Visi dan Misi | Kecamatan</title>
     <meta name="description" content="Kecamatan.">
-    <link rel="canonical" href="https://keckotabaru.com/profil/sejarah">
-    <meta itemprop="name" content="Sejarah">
+    <link rel="canonical" href="https://keckotabaru.com/profil/visi-misi">
+    <meta itemprop="name" content="Visi dan Misi">
     <meta itemprop="description" content="Kecamatan.">
     <meta itemprop="image" content="https://keckotabaru.com/img/no-image.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="csrf-token" content="xnvD3D2GTeIEvjSE6xJwAWb44roCxlRm17D4z1Ro">
+    <meta name="csrf-token" content="sNdrUqaVcdAp9JbzEy5Am1gDXrzZzYG9dnfskxa9">
     
     <meta property="og:locale" content="id_ID">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://keckotabaru.com/profil/sejarah">
+    <meta property="og:url" content="https://keckotabaru.com/profil/visi-misi">
     <meta property="og:site_name" content="https://keckotabaru.com">
-    <meta property="og:title" content="Sejarah">
+    <meta property="og:title" content="Visi dan Misi">
     <meta property="og:description" content="Kecamatan. ">
     <meta property="og:image" content="https://keckotabaru.com/img/no-image.png?auto=format&amp;fit=max&amp;w=1200">
     <meta property="og:image:alt" content="https://keckotabaru.com/img/no-image.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Sejarah">
+    <meta name="twitter:title" content="Visi dan Misi">
     <meta name="twitter:description" content="Kecamatan. ">
     <meta name="twitter:image" content="https://keckotabaru.com/img/no-image.png?auto=format&amp;fit=max&amp;w=1200">
-    <link rel="alternate" href="/feed.xml" type="application/atom+xml" data-title="https://keckotabaru.com/profil/sejarah">
+    <link rel="alternate" href="/feed.xml" type="application/atom+xml" data-title="https://keckotabaru.com/profil/visi-misi">
 
-    <link rel="icon" type="image/png" href="" />
+    <link rel="icon" type="image/png" href="https://keckotabaru.com/storage/profil/file_logo/unnamed.png" />
     <link rel="mask-icon" href="https://keckotabaru.com/storage/profil/file_logo/unnamed.png" color="#5bbad5">
     <link rel="manifest" href="https://keckotabaru.com/manifest.webmanifest" />
 
@@ -50,15 +50,19 @@
         href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,600,600i,700,700i|Roboto+Condensed:400,700,700i|Roboto:400,400i,500,500i,700,700i&display=swap"
         rel="stylesheet">
     <script src="https://keckotabaru.com/bower_components/jquery/dist/jquery.min.js"></script>
-    <style>
+        <style>
+
+
 .content-wrapper {
   padding-top: 80px; /* turun isi form-nya */
 }
+
+
     </style>
 </head>
 
 <body class="hold-transition skin-blue layout-top-nav">
-  <?php include 'includes/header.php'; ?>
+     <?php include 'includes/header.php'; ?>
 <?php include 'includes/navbar.php'; ?>
     <div class="preloader_bg">
     <main class="preloader">
@@ -147,7 +151,7 @@
                 <em class="fa fa-times"></em>
             </a>
             <form method="get" action="https://keckotabaru.com" role="search">
-                <input type="hidden" name="_token" value="xnvD3D2GTeIEvjSE6xJwAWb44roCxlRm17D4z1Ro">                <input class="form-control" placeholder="Mulai Pencarian" name="cari" id="searchbox" type="text" />
+                <input type="hidden" name="_token" value="sNdrUqaVcdAp9JbzEy5Am1gDXrzZzYG9dnfskxa9">                <input class="form-control" placeholder="Mulai Pencarian" name="cari" id="searchbox" type="text" />
             </form>
         </div>
         <!--<div class="topheader">
@@ -168,8 +172,7 @@
 </div>
 </div>
 -->
-
-       
+     
 
 <script>
     window.addEventListener('scroll', function() {
@@ -185,7 +188,7 @@
 <link href="https://unpkg.com/minibarjs@latest/dist/minibar.min.css" rel="stylesheet" type="text/css">
 <script src="https://unpkg.com/minibarjs@latest/dist/minibar.min.js" type="text/javascript"></script>
         <!--- /overlay -->
-        <div class="content-wrapper">
+        <div class="content-wrapper" style="margin-top: 20px;">
                         <div class="container">
                 <!-- Main content -->
                 <section class="content">
@@ -193,33 +196,30 @@
 
                             <div class="col-md-8">
         <div class="box box-primary">
-            <div class="box-header with-border text-bold">
-                <h3 class="box-title text-bold"><i class="fa  fa-arrow-circle-right fa-lg text-blue"></i> SEJARAH DESA PELAYANGAN</h3>
+            <div class="box-header with-border">
+                <h3 class="box-title text-bold"><i class="fa  fa-arrow-circle-right fa-lg text-blue"></i> VISI DAN MISI DESA PELAYANGAN</h3>
             </div>
             <div class="box-body">
-                <center>
-                    <img class="img-circle" style="display:block;margin:auto" src="assets/img/jembatan.webp">
-                </center>
-                <p> <p class="mb-4" style="text-align: justify;">Desa Pelayangan Merupakan Pemekaran dari Desa Rantau Kapas Mudo, yang kemudian pada tahun 2021 dan berdasarkan keputusan kementrian dalam negeri maka desa pelayangan berdiri sendiri, dengan kepala desanya yang pertama bernama Iwan Igun.</p>
-                <p class="mb-4" style="text-align: justify;">membentang dari Jembatan Pelayangan sebagai batas dengan desa rantau kapas mudo, dan loading sawit berbatas dengan desa sungai pulai. desa pelayangan diberi nama karena di lembak merupakan pelayangan penyebrangan Bus Bus atau kendaraan untuk melintas atau menyeberang sungai batanghari sebelum diresmikannya Jembatan Pelayangan Oleh Presiden ke 2 Soeharto.</p>
-                <p class="mb-4" style="text-align: justify;">Raden Syarif (yang kemudian diungkapkan kembali oleh Datuk Sulaiman Hasan) dari &ldquo;Riwayat Tanjung Jabung Negeri Lamo&rdquo; mencatat bahwa Puteri Selaro Pinang Masak mengilir dari Mangun Jayo ke Tanjung Jabung di pandu oleh sepasang itik besar (Angso Duo) yang mupur ditanah pilih pada tanggal 28 Mei 1401. Legenda Tanah Pilih ini berbeda versi dengan Ngebi Suto Dilago. Silsilah Raja-raja Jambi menyebut Orang Kayo Hitam (salah seorang putera dari pasangan puteri Selaro Pinang Masak dengan Ahmad Barus II/Paduko Berhalo) yang mengilir mengikuti sepasang itik besak (Angso Duo) atas saran petuah mertuanya Temenggung Merah Mato Raja Air Hitam Pauh.</p>
-                <p class="mb-4" style="text-align: justify;">Profesor Moh. Yamin mengidentifikasi Jambi berada disekitar Kantor Gubernur Jambi di Telanaipura sekarang. Indikasi ini atas dasar mulai dari kawasan Mesjid Agung Al-falah sampai ke Pematang pinggiran Danau Sipin terdapat deretan struktur batuan bata candi yang diantaranya menunjukan sebagai komplek percandian yang cukup besar dikawasan kampung Legok.</p>
-                <p class="mb-4" style="text-align: justify;">Tidak tertutup kemungkinan penemuan tanah pilih oleh sepasang Angso yang mupur tersebut adalah pembukaan kembali Kota Chan-pi yang ditinggal karena kerajaan SwarnaBhumi (San-fo-tsi) diserang oleh Singosari dalam peristiwa Pamalayu tahun 1275M dan pindah ke pedalaman Batang Hari yang kemudian dikenal sebagai Darmasraya (Sumatera Barat). Dua Puteri Melayu/Darmasraya yaitu Dara Petak dan Dara Jingga diboyong oleh Mahisa Anabrang ke Singosari pada tahun 1292. Ternyata di saat itu Singosari telah runtuh oleh pemberontak dan kemudian mendapat serbuan tentara Khu Bilaikhan. Singosari berganti menjadi Majapahit dengan Rajanya Raden Wijaya. Salah seorang keturunan Puteri melayu itu yaitu dari pasangan Dara Jingga yaitu Adityawarman kembali ke Darmasraya kemudian mendirikan dan menjadi Raja di Pagaruyung (1347-1375M). Anaknya yang bernama Ananggawarman meneruskan teratah kerajaan Pagaruyung. Keturunan Ananggawarman salah satunya adalah Puteri Selaro Pinang Masak yang dirajakan di Jambi.</p>
-                <p class="mb-4" style="text-align: justify;">Setelah Orang Kayo Hitam dirajakan pusat kerajaan dipindahkan dari Ujung Jabung ke Tanah Pilih Jambi disekitar awal abad ke 16. Jadilah Jambi kembali sebagai tempat kedudukan Pemerintahan.</p>
-                <p class="mb-4" style="text-align: justify;">Pangeran Depati Anom yang naik tahta dikerajaan Jambi bergelar Sultan Agung Abdul Jalil (1643-1665M) pernah memberikan surat izin untuk mendirikan pasar tempat berjual beli di Muaro Sungai Asam pada seorang Belanda bernama Beschseven. Izin Sultan tersebut tertanggal 24 Juni 1657 dimana lokasi yang diizinkan itu kemudian berpindah dari Muaro Sungai Asam ke sekitar Muaro Sungai di bawah area WTC Batang Hari sekarang.</p>
-                <p class="mb-4" style="text-align: justify;">Jambi sebagai pusat pemukiman dan tempat kedudukan raja terus berlangsung. Istana yang dibangun di Bukit Tanah Pilih disebut sebagai istana tanah pilih yang terakhir sebagai tempat Sultan Thaha Saifuddin dilahirkan dan dilantik sebagai sultan tahun 1855. Istana Tanah Pilih ini kemudian di bumi hanguskan sendiri oleh Sultan Thaha tahun 1858 menyusul serangan balik tentara Belanda karena Sultan dan Panglimanya Raden Mattaher menyerang dan berhasil menenggelamkan 1 kapal perang Belanda Van Hauten di perairan Muaro Sungai Kumpeh.</p>
-                <p class="mb-4" style="text-align: justify;">Dari puing &ndash; puing Istana Tanah Pilih oleh Belanda dikuasai dan dijadikan tempat markas serdadu Belanda. Praktis setelah Sultan Thaha Saifuddin gugur tangga 27 April 1904 Belanda secara utuh menempatkan wilayah kerajaan Jambi sebagai bagian wilayah kekuasaan Kolonial Hindia Belanda. Jambi kemudian berstatus Under Afdeling di bawah Afdeling Palembang. Pada Tahun 1906 Under Afdeling Jambi ditingkatkan sebagai Afdeling Jambi kemudian di tahun 1908 Afdeling Jambi menjadi Kerisidenan Jambi dengan residennya O.L. Helfrich berkedudukan di Jambi. Sampai masa Kemerdekaan pejabat Residen dari Keresidenan Jambi berkedudukan di Jambi. Setelah Republik Indonesia di Proklamirkan pada tanggal 17 Agustus 1945, berdasarkan berita RI Tahun II No. 07 hal 18 tercatat untuk sementara waktu daerah Negara Indonesia di bagi dalam 8 Provinsi yang masing &ndash; masing dikepalai oleh seorang Gubernur diantaranya Provinsi Sumatera. Provinsi Sumatera ini kemudian pada tahun 1946 dibagi lagi dalam 3 sub Provinsi yaitu Sub Provinsi Sumatera Utara, Sub Provinsi Sumatera Tengah dan Sub Provinsi Sumatera Selatan. Keresidenan Jambi dengan hasil voting dimasikan ke dalam wilayah Sub Provinsi Sumatera Tengah.</p>
-                <p class="mb-4" style="text-align: justify;">Residen Jambi yang pertama di masa Republik adalah Dr. Asyagap sebagaimana tercantum dalam pengumuman Pemerintah tentang pengangkatan residen, Walikota di Sumatera dengan berdasarkan pada surat ketetapan Gubernur Sumatera tertanggal 03 Oktober 1945 No. 1-X.</p>
-                <p class="mb-4" style="text-align: justify;">Pada tahun 1945 tersebut sesuai Undang-undang no.1 tahun 1945 wilayah Indonesia terdiri dari Provinsi, Karesidenan, Kewedanaan dan Kota. Tempat kedudukan Residen yang telah memenuhi syarat, disebut Kota tanpa terbentuk struktur Pemerintahan Kota. Dengan demikian Kota Jambi sebagai tempat kedudukan Residen Keresidenan Jambi belum berstatus dan memiliki pemerintahan sendiri. Kota Jambi baru diakui berbentuk pemerintahan ditetapkan dengan ketetapan Gubernur Sumatera No. 103 tahun 1946 tertanggal 17 Mei 1946 dengan sebutan Kota Besar dan Walikota pertamanya adalah Makalam.</p>
-                <p class="mb-4" style="text-align: justify;">Mengacu pada Undang-undang No. 10 tahun 1948 Kota Besar menjadi Kota Praja. Kemudian berdasarkan Undang-undang No. 18 tahun 1965 menjadi Kota Madya dan berdasarkan Undang-undang No. 22 tahun 1999 Kota Madya berubah menjadi Pemerintah Kota Jambi sampai sekarang.</p>
-                <p class="mb-4" style="text-align: justify;">Dengan Undang-undang No. 19 Tahun 1958 Keresidenan Jambi sebagai bagian dari Provinsi Sumatera Tengah dikukuhkan sebagai Provinsi Jambi yang berkedudukan di Jambi. Kota Jambi sendiri pada saat berdirinya Provinsi Jambi telah berstatus Kota Praja dengan Walikotanya R. Soedarsono.</p>
-                <p class="mb-4" style="text-align: justify;">Tanggal penetapan Kota Jambi sebagai Kota Praja yang mempunyai Pemerintahan sendiri sebagai Pemerintah Kota dengan ketetapan Gubernur Sumatera No. 103 Tahun 1946 tertanggal 17 Mei 1946 dipilih dan ditetapkan dengan Peraturan Daerah Kota Jambi No. 16 Tahun 1985 dan disahkan dengan Keputusan Gubernur Kepala Daerah Tingkat I Jambi No. 156 Tahun 1986, tanggal 17 Mei 1946 itu sebagai Hari Jadi Pemerintah Kota Jambi.</p>
-                <p class="mb-4" style="text-align: justify;">(Drs.H.Junaidi.T.Noor.MM)</p></p>
+                <h3 class="box-title text-bold text-center">VISI</h3>
+                <p> <p class="text-center" style="font-size: 14px ">“Desa Pelayangan sebagai desa maju, mandiri, dan religius dengan pembangunan yang berkelanjutan untuk mewujudkan masyarakat yang sejahtera”</p></p>
+                <hr>
+                <h3 class="box-title text-bold text-center">MISI</h3>
+                <p > <ol style="font-size: 14px ">
+<li>Mewujudkan tata kelola pemerintahan yang baik.</li>
+<li>Mengembangkan kegiatan keagamaan.</li>
+<li>Meningkatkan kualitas pendidikan dan sumber daya manusia.</li>
+<li>Mengembangkan teknologi informasi.</li>
+<li>Pembangunan infrastruktur, sarana dan prasarana</li>
+<li>Mengembangkan seluruh usaha potensi desa.</li>
+<li>Meningkatkan kualitas dan membangun kesadaran kesehatan masyarakat.</li>
+<li>Meningkatkan perekonomian dan kesejahteraan masyarakat.</li>
+<li>Membangun kerjasama dan kemitraan strategis.</li>
+</ol></p>
             </div>
         </div>
     </div>
 
-                       <div class="col-md-4">
+                           <div class="col-md-4">
     <div class="box box-widget">
         <div class="pad text-bold bg-white" style="text-align:center;">
         <img src="assets/img/kepala-desa.JPG" alt="Kantor Desa">
@@ -246,7 +246,7 @@
         <h3 class="box-title">Lacak Keluhan Anda!</h3>
     </div>
     <!-- /.box-header -->
-        <div class="input-group input-group-sm">
+    <div class="input-group input-group-sm">
   <input class="form-control" required type="text" id="tracking" name="tracking_id" placeholder="Tracking ID Keluhan Anda" />
   <button type="submit" class="btn btn-warning btn-flat">Lacak</button>
 </div>
@@ -347,7 +347,7 @@
 </div>
 
         </div>
-              <div class="box box-widget">
+                <div class="box box-widget">
             <div class="box-header with-border text-center  bg-blue">
     <h2 class="box-title text-bold">Media Sosial</h2>
 </div>
@@ -382,7 +382,7 @@
 </div>
 <!-- /.col -->
     </div>
-</div>
+</div>             
                     </div>
                 </section>
                 <!-- /.content -->
@@ -390,7 +390,7 @@
             <!-- /.container -->
         </div>
         <!-- /.content-wrapper -->
-     <section class="footer-top">
+          <section class="footer-top">
     <div class="container no-padding">
         <div class="col-md-2">
                     </div>
